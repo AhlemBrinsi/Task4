@@ -8,6 +8,7 @@ This project is a personal portfolio website designed to showcase your skills, p
 
   **Education, projects and experience Sections:**
   - Detailed background information, including education and professional experience, to provide visitors with a comprehensive understanding of your qualifications.
+    
   **Contact Section:**
     
 The goal is to design an attractive and visually appealing layout that captures visitors' attention and effectively communicates your professional profile.
